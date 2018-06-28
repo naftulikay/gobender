@@ -1,0 +1,15 @@
+/.ansible/galaxy-roles
+/.vagrant
+/gobender
+/target
+
+*.o
+*.a
+*.test
+*.out
+*.dll
+*.so
+*.dylib
+
+*.test
+*.out
